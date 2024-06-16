@@ -1,0 +1,1 @@
+This repository contains privacy policies for projects created by Eric Van de Kerckhove (@BlackDragonBE). Its purpose is offering transparency for users of the projects.
